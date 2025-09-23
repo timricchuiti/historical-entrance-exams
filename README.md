@@ -41,6 +41,6 @@ Contributions are welcome! If you’d like to add more exams:
 2. Add your `.tex` source and compiled `.pdf`
 3. Submit a pull request
 
-License
+## License
 
 This project is licensed under the MIT License — see the [LICENSE](https://opensource.org/license/mit) file for details.
