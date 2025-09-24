@@ -2,7 +2,8 @@
 
 This repository contains LaTeX recreations of historical entrance examinations: the kinds of tests students once had to pass for admission to universities like Harvard, MIT, and others. The goal is to preserve, explore, and typeset these exams in a clean, consistent, and reusable format.
 
-![Preview of a recreated entrance exam](assets/preview.png)
+![Preview of a recreated entrance exam (1)](assets/preview1.png)
+![Preview of a recreated entrance exam (2)](assets/preview2.png)
 
 ## Contents
 
