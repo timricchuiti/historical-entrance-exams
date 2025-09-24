@@ -2,10 +2,14 @@
 
 This repository contains LaTeX recreations of historical entrance examinations: the kinds of tests students once had to pass for admission to universities like Harvard, MIT, and others. The goal is to preserve, explore, and typeset these exams in a clean, consistent, and reusable format.
 
+![Preview of a recreated entrance exam](assets/preview.png)
+
 ## Contents
+
 - Recreated exam papers in LaTeX (`.tex` files)
 - Generated PDFs of each exam
 - Supporting assets (figures, diagrams, etc.)
+
 
 ## Motivation
 These documents are valuable not only as a historical curiosity but also as a window into the standards and expectations of earlier eras of education. By recreating them in LaTeX, we ensure that they are easy to read, compile, and adapt for teaching or research.
@@ -43,4 +47,4 @@ Contributions are welcome! If you’d like to add more exams:
 
 ## License
 
-This project is licensed under the MIT License — see the [LICENSE](https://opensource.org/license/mit) file for details.
+This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
